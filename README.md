@@ -225,7 +225,6 @@ Two additional configurations isolate individual factors: a `Dropout(0.3)` layer
 IMDB-Sentiment-Classification-with-BERT-Tokenized-Bidirectional-LSTM-Network
 │
 ├── IMDB_Sentiment_BiLSTM_BERT_Tokenization.ipynb
-├── requirements.txt
 └── README.md
 ```
 
